@@ -7,8 +7,8 @@
 #define _CLISOCKET_H_
 
 // For connect wifi just change SSID and Password macros
-#define ESP_WIFI_SSID      "RSD"
-#define ESP_WIFI_PASS      "Recep.123"
+#define ESP_WIFI_SSID      "YourSSID"
+#define ESP_WIFI_PASS      "YourPassword"
 #define ESP_MAXIMUM_RETRY  100
 
 /* The event group allows multiple bits for each event, but we only care about two events:
